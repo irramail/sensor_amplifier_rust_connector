@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "Amplifier solar panel p6way.net",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/%22npm%22%20lockup/npm-logo-simplifed-with-white-space.png",
+    "company": "P6way",
+    "companyUrl": "https://p6way.net/",
+    "addonUrl": "https://github.com/irramail/sensor_amplifier_rust_connector",
+    "supportUrl": "https://github.com/irramail/sensor_amplifier_rust_connector/issues",
+    "description": "Get datetime amplifier solar panel + temperature",
+    "sources": ["json"]
+  }
+}
